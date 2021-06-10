@@ -29,35 +29,35 @@ nav > div > div > a {
 }
 
 .container{
-    border: 1px solid #000000;
     overflow: hidden;
-    width: 100%;
+    margin-left: 15px;
+    margin-right: 10px;
 }
 
 .main{
-    width: 65%;
-    border:2px solid blue;
+    width: 66%;
+    float: left;
 }
 
 .left-side{
     width: 30%;
     margin-top: 0px;
     float: right;
-    border:2px solid green;
 }
 
 .lunch{
-    padding: 20px;
+    padding: 10px;
 }
 
 .little-img > img{
-    width: 200px;
-    height: 200px;
-    padding: 5px;
+    width: 150px;
+    height: 150px;
+    padding: 3px;
 }
 
 .lunch-img{
-    width: 100%;
+    width:auto;
+    height: auto;
 }
 
 .main-head{
